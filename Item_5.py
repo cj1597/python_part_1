@@ -1,6 +1,5 @@
 sample_list =[]
 
-
 def get_multiple_args(*arguments, **keywords):
 
     for arg in arguments:
